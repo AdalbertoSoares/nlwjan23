@@ -19,8 +19,11 @@ tecnologias:
 
 💻 Projeto:
 
-O Habist é um app para ajudar a rastrear os hábitos.
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://adalbertosoarespereira.git.io/nlwjan23/)
+
 
 📑 Layout
 
-Você pode visualizar o layout do projeto através desse link {https://www.figma.com/file/kT2qzFMfV9cHgRDnXcYqfS/Habits-(e)-(Community)?node-id=75%3A128&t=ncd7Q66WcnXkSY01-1}. É necessário ter conta no Figma para acessá-lo, link:{http://figma.com}.
+Você pode visualizar o layout do projeto através desse [link](https://www.figma.com/file/kT2qzFMfV9cHgRDnXcYqfS/Habits-(e)-(Community)?node-id=75%3A128&t=ncd7Q66WcnXkSY01-1). É necessário ter conta no [Figma](https://www.figma.com).
